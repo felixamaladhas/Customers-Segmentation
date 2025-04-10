@@ -1,5 +1,7 @@
 # Customers-Segmentation
 
+Presentation Link: [Customer Segmentation.pptx](https://github.com/user-attachments/files/19687141/Customer.Segmentation.pptx)
+
 # Objective
 
 This case requires to develop a customer segmentation to understand customers behavior and sepparate them in different groups or cluster according to their preferences, and once the division is done, this information can be given to marketing team so they can plan the strategy accordingly.
