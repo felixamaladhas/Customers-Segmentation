@@ -1,7 +1,5 @@
 # Customers-Segmentation
 
-![68747470733a2f2f7777772e636c656172746f7563682e696e2f77702d636f6e74656e742f75706c6f6164732f323032332f30322f437573746f6d65722d5365676d656e746174696f6e2e706e67](https://github.com/user-attachments/assets/b0781f4b-095d-4661-86bd-547f77351ec0)
-
 # Objective
 
 This case requires to develop a customer segmentation to understand customers behavior and sepparate them in different groups or cluster according to their preferences, and once the division is done, this information can be given to marketing team so they can plan the strategy accordingly.
